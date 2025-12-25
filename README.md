@@ -96,5 +96,3 @@ This project allows an admin to manage **patients, doctors, and appointments** e
 - Billing
   
 # Perform CRUD operations for each entity.
-## Project Structure
-
