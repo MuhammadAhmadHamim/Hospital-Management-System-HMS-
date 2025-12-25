@@ -19,7 +19,7 @@ This project allows an admin to manage **patients, doctors, and appointments** e
 - **Appointment Scheduling**  
   Manage appointments between patients and doctors.
 
-  - **Billing**  
+- **Billing**  
   Manage billing of diffrent patients.  
 
 - **Dynamic Data Storage**  
@@ -55,7 +55,7 @@ This project allows an admin to manage **patients, doctors, and appointments** e
 │ ├─ PatientDetails.java
 │ ├─ Doctor.java
 │ ├─ DoctorDetails.java
-│ └─ Appointment.java
+│ ├─ Appointment.java
 │ ├─ Bill.java
 
 # ├─ repository/
