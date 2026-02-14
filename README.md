@@ -45,7 +45,7 @@ This project allows an admin to manage **patients, doctors, and appointments** e
 - **Generics & Interfaces** for flexible, reusable code  
 
 ## Project Structure
-
+```text
 # src/
 ├─ App.java # Main application, launches GUI
 
