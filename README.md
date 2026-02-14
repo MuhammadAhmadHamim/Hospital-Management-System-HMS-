@@ -80,7 +80,7 @@ This project allows an admin to manage **patients, doctors, and appointments** e
 │ | | ├─ doctorPanel()
 │ | | ├─ appointmentPanel()
 │ | | ├─ billingPanel()
-
+```
 ## Usage
 
 # Login with:
