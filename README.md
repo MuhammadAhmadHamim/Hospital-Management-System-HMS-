@@ -162,7 +162,7 @@ interface Repository<T> {
 
 ```bash
 # Clone the repository
-git clone https://github.com/MuhammadAhmadHamim/hospital-management-system.git
+git clone https://github.com/MuhammadAhmadHamim/Hospital-Management-System-HMS-.git
 cd hospital-management-system
 ```
 
