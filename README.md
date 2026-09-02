@@ -163,7 +163,7 @@ interface Repository<T> {
 ```bash
 # Clone the repository
 git clone https://github.com/MuhammadAhmadHamim/Hospital-Management-System-HMS-.git
-cd hospital-management-system
+cd HMS
 ```
 
 > **Recommended:** Open in **IntelliJ IDEA** or **Apache NetBeans**, add the JavaFX SDK under Project Structure as a library, then run `App.java` directly.
