@@ -107,6 +107,13 @@ src/
             └── billingPanel()
 ```
 
+<details>
+<summary><b>📐 UML Diagram</b></summary>
+
+![UML_Preview](diagrams/UML.jpg)
+
+</details>
+
 ---
 
 ## ◈ OOP Concepts Applied
