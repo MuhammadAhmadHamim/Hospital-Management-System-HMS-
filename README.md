@@ -99,7 +99,7 @@ src/
         ├── loginPage()
         │   ├── createPatientTable()
         │   ├── createDoctorTable()
-        │   └── createAppointmentTable()
+        │   └── createAppointmentTable()``1q672
         └── dashBoard()
             ├── patientPanel()
             ├── doctorPanel()
@@ -111,6 +111,13 @@ src/
 <summary><b>📐 UML Diagram</b></summary>
 
 ![UML_Preview](diagrams/UML.jpg)
+
+</details>
+
+<details>
+<summary><b>👥 Use-case Diagram</b></summary>
+
+![Use-case_Preview](diagrams/Use-case.png)
 
 </details>
 
